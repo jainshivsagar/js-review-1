@@ -1,0 +1,199 @@
+{
+ "TAURUSMUTUALFUND_MF": {
+  "Equity": 21,
+  "ELSS": 2
+ },
+ "QUANTUMMUTUALFUND_MF": {
+  "Equity": 5,
+  "ELSS": 2,
+  "Debt - Bonds": 11
+ },
+ "BirlaSunLifeMutualFund_MF": {
+  "Equity": 104,
+  "Debt - Bonds": 96,
+  "ELSS": 6
+ },
+ "FRANKLINTEMPLETON": {
+  "Equity": 60,
+  "Debt - Bonds": 78,
+  "ELSS": 3
+ },
+ "ICICIPrudentialMutualFund_MF": {
+  "Debt - Bonds": 173,
+  "Equity": 128,
+  "ELSS": 3,
+  "Debt": 1
+ },
+ "DSP_MF": {
+  "Debt - Bonds": 93,
+  "Equity": 82,
+  "ELSS": 2
+ },
+ "PPFAS_MF": {
+  "Debt - Bonds": 6,
+  "Equity": 3,
+  "ELSS": 1
+ },
+ "HDFCMutualFund_MF": {
+  "Debt - Bonds": 91,
+  "Equity": 58,
+  "Debt": 1,
+  "ELSS": 6
+ },
+ "PRINCIPALMUTUALFUND_MF": {
+  "Equity": 50,
+  "ELSS": 3,
+  "Debt - Bonds": 16
+ },
+ "KOTAKMAHINDRAMF": {
+  "Equity": 68,
+  "Debt - Bonds": 91,
+  "ELSS": 2
+ },
+ "MAHINDRA MANULIFE MUTUAL FUND_MF": {
+  "Debt - Bonds": 21,
+  "ELSS": 2,
+  "Equity": 27
+ },
+ "JM FINANCIAL MUTUAL FUND_MF": {
+  "Equity": 50,
+  "ELSS": 2,
+  "Debt - Bonds": 41
+ },
+ "IDFCMUTUALFUND_MF": {
+  "Debt - Bonds": 166,
+  "Equity": 44,
+  "ELSS": 2
+ },
+ "SBIMutualFund_MF": {
+  "Debt - Bonds": 87,
+  "Equity": 86,
+  "ELSS": 3
+ },
+ "NipponIndiaMutualFund_MF": {
+  "Equity": 112,
+  "Debt - Bonds": 136,
+  "ELSS": 4
+ },
+ "INVESCOMUTUALFUND_MF": {
+  "Equity": 54,
+  "Debt - Bonds": 66,
+  "ELSS": 2
+ },
+ "PGIMINDIAMUTUALFUND_MF": {
+  "Equity": 47,
+  "Debt - Bonds": 71,
+  "ELSS": 2
+ },
+ "MOTILALOSWAL_MF": {
+  "Equity": 26,
+  "Debt - Bonds": 19,
+  "ELSS": 2
+ },
+ "BNPPARIBAS_MF": {
+  "Debt - Bonds": 46,
+  "ELSS": 2,
+  "Equity": 40
+ },
+ "TATAMutualFund_MF": {
+  "Debt - Bonds": 39,
+  "Equity": 74,
+  "ELSS": 4
+ },
+ "HSBCMUTUALFUND_MF": {
+  "Equity": 43,
+  "Debt - Bonds": 50,
+  "ELSS": 3
+ },
+ "IDBIMUTUALFUND_MF": {
+  "Debt - Bonds": 33,
+  "Equity": 41,
+  "ELSS": 3
+ },
+ "IIFLMUTUALFUND_MF": {
+  "Debt - Bonds": 12,
+  "Equity": 3
+ },
+ "UNIONMUTUALFUND_MF": {
+  "Equity": 33,
+  "Debt - Bonds": 23,
+  "ELSS": 2
+ },
+ "INDIABULLSMUTUALFUND_MF": {
+  "Debt - Bonds": 52,
+  "Equity": 21,
+  "ELSS": 2
+ },
+ "SHRIRAMMUTUALFUND_MF": {
+  "Equity": 9,
+  "ELSS": 2
+ },
+ "EDELWEISSMUTUALFUND_MF": {
+  "Equity": 46,
+  "ELSS": 3,
+  "Debt - Bonds": 75
+ },
+ "CANARAROBECOMUTUALFUND_MF": {
+  "Equity": 28,
+  "Debt - Bonds": 42,
+  "ELSS": 3
+ },
+ "BHARTIAXAMUTUALFUND_MF": {
+  "Equity": 32,
+  "Debt - Bonds": 24,
+  "ELSS": 3
+ },
+ "LICMUTUALFUND_MF": {
+  "Debt - Bonds": 44,
+  "Equity": 29,
+  "ELSS": 2
+ },
+ "MIRAEASSET": {
+  "Equity": 37,
+  "Debt - Bonds": 32,
+  "ELSS": 2
+ },
+ "UTIMUTUALFUND_MF": {
+  "Debt - Bonds": 156,
+  "Equity": 61,
+  "ELSS": 2
+ },
+ "AXISMUTUALFUND_MF": {
+  "Equity": 78,
+  "Debt - Bonds": 91,
+  "ELSS": 3
+ },
+ "SUNDARAMMUTUALFUND_MF": {
+  "Equity": 48,
+  "ELSS": 2,
+  "Debt - Bonds": 76
+ },
+ "L&TMUTUALFUND_MF": {
+  "Equity": 57,
+  "Debt - Bonds": 63,
+  "ELSS": 4
+ },
+ "BARODAMUTUALFUND_MF": {
+  "ELSS": 2,
+  "Equity": 24,
+  "Debt - Bonds": 49
+ },
+ "NAVIMUTUALFUND_MF": {
+  "Equity": 56,
+  "Debt - Bonds": 19,
+  "ELSS": 2
+ },
+ "YESMUTUALFUND_MF": {
+  "Debt - Bonds": 24
+ },
+ "ITI MUTUAL FUND_MF": {
+  "Debt - Bonds": 30,
+  "Equity": 21,
+  "ELSS": 2
+ },
+ "QUANTMUTUALFUND_MF": {
+  "Equity": 31,
+  "Debt - Bonds": 9,
+  "ELSS": 2
+ }
+}
